@@ -1,0 +1,7 @@
+{
+    "host" : "capstone-db.cwn0gbl60agn.ap-northeast-2.rds.amazonaws.com",
+    "user" : "admin",
+    "password" : "tjqhdtjd",
+    "port" : "3306",
+    "database" : "broccoli"
+}
