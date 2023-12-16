@@ -2,7 +2,7 @@
 express와 MySQL을 이용하여 RESTful API를 개발
 
 
-# DB 스키마
+## DB 스키마
 ![image](https://github.com/sbs524/Capstone/assets/80670002/e12cd685-9e5f-4452-a6d4-14d815481250)
 
 > 이미지 저장 방법
@@ -26,7 +26,7 @@ express와 MySQL을 이용하여 RESTful API를 개발
 
 
 
-# 구현 기능
+## 구현 기능
 > 각 테이블을 등록/삭제/열람 할 수 있고 특정 컬럼을 갱신<br>
 > id 중복확인과 bcrypt를 이용한 비밀번호 암호화, 다중 이미지 업로드 구현
 
@@ -47,7 +47,7 @@ express와 MySQL을 이용하여 RESTful API를 개발
 ![스크린샷 2023-12-16 213749](https://github.com/sbs524/Capstone/assets/80670002/903946fd-c930-4091-a03b-9c6888406774)
 
 
-# AWS를 이용한 배포
+## AWS를 이용한 배포
 - Git 저장소를 통해 개발 진행상황을 수시로 업로드
 - 구현 후 AWS서비스를 이용하여 git clone
 - pm2를 사용하여 24시간 가동
