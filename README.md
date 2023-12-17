@@ -54,4 +54,4 @@ express와 MySQL을 이용하여 RESTful API를 개발
 
 
 ## 시연영상
-[![시연영상](https://img.youtube.com/vi/DCkKc3-OPuw/1.jpg)](https://www.youtube.com/watch?v=DCkKc3-OPuw)
+[![시연영상](https://img.youtube.com/vi/DCkKc3-OPuw/0.jpg)](https://www.youtube.com/watch?v=DCkKc3-OPuw)
