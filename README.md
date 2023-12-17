@@ -53,4 +53,5 @@ express와 MySQL을 이용하여 RESTful API를 개발
 - pm2를 사용하여 24시간 가동
 
 
-![image](https://github.com/sbs524/Capstone/assets/80670002/0d181f26-baea-48db-bf9e-6cb41f62a731)
+## 시연영상
+[![시연영상](https://img.youtube.com/vi/DCkKc3-OPuw/0.jpg)](https://youtube.com/DCkKc3-OPuw)
