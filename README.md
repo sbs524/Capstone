@@ -3,7 +3,7 @@ express와 MySQL을 이용하여 RESTful API를 개발
 
 
 ## DB 스키마
-![image](https://github.com/sbs524/Capstone/assets/80670002/e12cd685-9e5f-4452-a6d4-14d815481250)
+![image](https://github.com/sbs524/Capstone/assets/80670002/0d0032a9-c3db-4ec1-856f-24d7d2cccb4b)
 
 > 이미지 저장 방법
 >
